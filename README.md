@@ -84,8 +84,8 @@ https://newsapi.org
 - Error Handling  
 
 ---
-<img width="344" height="733" alt="Screenshot 2026-0<img width="330" height="734" alt="Screenshot 2026-02-19 at 7 33 29 PM" src="https://github.com/user-attachments/assets/aa9daf81-904b-4782-9c8c-ee81dc2087a8" />
-2-19 at 7 32 50 PM" src="https://github.com/user-attachments/assets/ad42e1b8-7cb2-46a1-8c1a-9893ac7ceebf" />
+<img width="344" height="733" alt="Screenshot 2026-02-19 at 7 32 50 PM" src="https://github.com/user-attachments/assets/5fde4de7-ffc7-46b6-a56d-bfefb30a0f4c" />
+<img width="330" height="734" alt="Screenshot 2026-02-19 at 7 33 29 PM" src="https://github.com/user-attachments/assets/2838051b-7a61-4480-a1e8-e81d89cad3a6" />
 <img width="341" height="722" alt="Screenshot 2026-02-19 at 7 33 14 PM" src="https://github.com/user-attachments/assets/247cef07-d383-4420-a172-a751df209ba9" />
 <img width="351" height="739" alt="Screenshot 2026-02-19 at 7 34 00 PM" src="https://github.com/user-attachments/assets/6f43cdec-c62f-415c-86d4-5ad5cda298a7" />
 <img width="339" height="726" alt="Screenshot 2026-02-19 at 7 33 49 PM" src="https://github.com/user-attachments/assets/986be868-1ad5-4c07-a9f9-e4c9d9fd4a2d" />
