@@ -66,9 +66,6 @@ REST API
 NewsAPI  
 https://newsapi.org  
 
-Query Used:
-https://newsapi.org/v2/everything?q=artificial%20intelligence
-
 
 ---
 
@@ -86,6 +83,8 @@ https://newsapi.org/v2/everything?q=artificial%20intelligence
 - Shimmer Loading  
 - Error Handling  
 
+---
+<img width="344" height="733" alt="Screenshot 2026-02-19 at 7 32 50 PM" src="https://github.com/user-attachments/assets/ad42e1b8-7cb2-46a1-8c1a-9893ac7ceebf" />
 
 
 
