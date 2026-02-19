@@ -1,5 +1,5 @@
 # AI-News-Hub
-## 🎥 Project Demo Video
+## 🎥 Project Video
 
 Google Drive Link:  
 👉 https://drive.google.com/file/d/1acTgG3IzKecS7LxS9NXFXgDDypW-Yjbb/view?usp=sharing
