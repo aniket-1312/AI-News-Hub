@@ -86,16 +86,6 @@ https://newsapi.org/v2/everything?q=artificial%20intelligence
 - Shimmer Loading  
 - Error Handling  
 
-📂 Folder Structure
-lib/
- ├── core/
- ├── models/
- ├── services/
- ├── data/
- ├── providers/
- ├── views/
- ├── widgets/
- └── main.dart
 
 
 
